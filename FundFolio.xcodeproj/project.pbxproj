@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A2E4C4012E6F18B5009456DD /* README.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2E4C4002E6F18B1009456DD /* README.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		A2EFA7912E5CB3E500EDBDA6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A2E4C4002E6F18B1009456DD /* README.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = README.swift; sourceTree = "<group>"; };
 		A2EFA7802E5CB3E300EDBDA6 /* FundFolio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FundFolio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2EFA7902E5CB3E500EDBDA6 /* FundFolioTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FundFolioTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2EFA79A2E5CB3E500EDBDA6 /* FundFolioUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FundFolioUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,6 +80,7 @@
 		A2EFA7772E5CB3E300EDBDA6 = {
 			isa = PBXGroup;
 			children = (
+				A2E4C4002E6F18B1009456DD /* README.swift */,
 				A2EFA7822E5CB3E300EDBDA6 /* FundFolio */,
 				A2EFA7932E5CB3E500EDBDA6 /* FundFolioTests */,
 				A2EFA79D2E5CB3E500EDBDA6 /* FundFolioUITests */,
@@ -236,6 +242,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2E4C4012E6F18B5009456DD /* README.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
