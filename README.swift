@@ -4,6 +4,12 @@
 ////
 ////  Created by Janhavi Jagtap on 8/9/2025.
 ////
+
+
+//GITHUB LINK: https://github.com/JanhaviJagtap/FundFolio
+
+
+
 //
 //FundFolio
 //FundFolio is a comprehensive personal finance management iOS app built with SwiftUI and Swift. It helps users track their bank accounts, loans, budgets, transactions, and reminders—all in one intuitive interface.
